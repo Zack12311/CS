@@ -16,7 +16,7 @@ http://localhost:8080/
 ### usage:
 - create user:
 
-```aidl
+```
 PUT: http://localhost:8080/users
 ```
 
@@ -50,7 +50,7 @@ DELETE: http://localhost:8080/users/
 
 message body:
 
-```aidl
+```
 {
     "id": 1,
     "name": "Dolan",
