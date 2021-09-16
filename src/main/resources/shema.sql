@@ -1,0 +1,9 @@
+--DROP TABLE IF EXISTS USER;
+--
+--CREATE TABLE USER
+--(
+--  id INT AUTO_INCREMENT PRIMARY KEY,
+--  name VARCHAR(255) NOT NULL,
+--  date_of_birth TIMESTAMP(3),
+--  phone_number VARCHAR(255)
+--);
