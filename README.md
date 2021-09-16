@@ -1,7 +1,5 @@
 # Credit Suisse
 
-Yes, I did not finish this application.
-
 ## how to use:
 
 Execute:
